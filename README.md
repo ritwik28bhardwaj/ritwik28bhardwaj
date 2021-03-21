@@ -9,7 +9,7 @@
 
 
 
-💡   &nbsp;I am current;y lost in the world of app-dev.\
+💡   &nbsp;I am current;y lost in the world of app-dev and Python.\
 🎓   &nbsp;High School, New Delhi\
 🌱   &nbsp;I am hoping to pursue computer science in India\
 ✍️   &nbsp;I have profound interest in photography, reading self developement/philosphy books and writing.\
