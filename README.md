@@ -2,8 +2,12 @@
 
 
 
-<!--
-**ritwik28bhardwaj/ritwik28bhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<!-- ## 👋 &nbsp;Namaste! I'm Ritwik -->
+
+
 
 💡  I am current;y lost in the world of app-dev.
 🎓  High School, New Delhi
