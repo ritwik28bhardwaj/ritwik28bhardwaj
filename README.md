@@ -1,4 +1,4 @@
-![RB BANNER](banner_repo1.jpg)
+![RB BANNER](IMG_20201031_081011.png)
 
 
 <h2>Namaste! I'm Ritwik:) </h2>
