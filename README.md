@@ -1,7 +1,7 @@
 ![RB BANNER](banner_repo1.jpg)
 
 
-<h2>Namaste! I'am Ritwik </h2>
+<h2>Namaste! I'm Ritwik:) </h2>
 
 <!-- ## 👋 &nbsp;Namaste! I'm Ritwik -->
 
