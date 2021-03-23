@@ -1,4 +1,4 @@
-![RB BANNER](IMG_20201031_081011.png)
+![RB BANNER](Screenshot (28).png)
 
 
 <h2>Namaste! I'm Ritwik:) </h2>
