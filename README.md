@@ -1,4 +1,4 @@
-![RB BANNER](Screenshot (28).png)
+![RB BANNER](githuh.png)
 
 
 <h2>Namaste! I'm Ritwik:) </h2>
