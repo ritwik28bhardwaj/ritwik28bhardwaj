@@ -17,4 +17,4 @@
 ### Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ritwik28bhardwaj&theme=gruvbox&show_icons=true&count_private=true)
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik28bhardwaj24&layout=compact&langs_count=8&theme=gruvbox)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik28bhardwaj&layout=compact&langs_count=8&theme=gruvbox)
