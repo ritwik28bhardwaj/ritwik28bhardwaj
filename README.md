@@ -14,3 +14,7 @@
 💬  &nbsp;feel free to contact for interesting discussion or any other suggestion that could help me reach heights\
 ✉️  &nbsp;You can contact me at ritwik28102004@gmail.com :D
 
+### Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ritwik28bhardwaj&theme=gruvbox&show_icons=true&count_private=true)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik28bhardwaj24&layout=compact&langs_count=8&theme=gruvbox)
